@@ -88,10 +88,12 @@ footer .redes
 footer .redes a
 {
     margin: 0 7.5px;
+    
 }
 footer ul li
 {
     margin-bottom: 10px;
+    text-decoration: none;
 }
 
 .boton
